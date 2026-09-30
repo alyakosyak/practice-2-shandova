@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+
+# Ruff
+.ruff_cache/
+
+# Generated files
+temperature_24h.csv
+temperature_24h.png
